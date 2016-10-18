@@ -1,8 +1,11 @@
+########################
 
+Where : Hatcher library
 What : Software Carpentry
 When: October 18th
 Who: Shanna Ashley
 
+Packages necessary for this analysis
 
 library(RSQLite)
 
